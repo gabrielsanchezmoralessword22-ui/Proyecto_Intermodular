@@ -1,4 +1,4 @@
-## Comandos básicos para la gestión del proyecto
+## Comandos básicos para la gestión del proyecto  /////
 
 1. Instalación y Configuración Inicial
 Si clonas el proyecto desde cero en un nuevo entorno:
